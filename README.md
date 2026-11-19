@@ -1,5 +1,7 @@
 # Foody
 
+[Watch the app demo on YouTube](https://www.youtube.com/shorts/b4obJeiXv-I)
+
 Native SwiftUI campus meal discovery with a Python and SQLite backend. Students select a university, browse meals within budget, vote on dishes and discuss meals.
 
 ## Run locally
